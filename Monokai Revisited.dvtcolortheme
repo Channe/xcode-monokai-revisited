@@ -47,11 +47,11 @@
 		<key>xcode.syntax.character</key>
 		<string>0.680619 0.503594 0.999973 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.459445 0.442009 0.369169 1</string>
+		<string>0.29501 0.3968 0.356606 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.466618 0.440176 0.375683 1</string>
+		<string>0.29501 0.3968 0.356606 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.330373 0.31231 0.264685 1</string>
+		<string>0.226728 0.365807 0.286402 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.327648 0.869403 0.396378 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
